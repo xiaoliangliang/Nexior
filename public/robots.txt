@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+
+# 禁止爬虫访问以下路径
+Disallow: /auth
+Disallow: /console
+Disallow: /site
+Disallow: /profile
+
+# 站点地图
+Sitemap: https://gpt-image-1.top/sitemap.xml

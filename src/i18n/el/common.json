@@ -148,7 +148,7 @@
     "description": "Κείμενο κουμπιού για την ολοκλήρωση κάποιου περιεχομένου"
   },
   "entity.website": {
-    "message": "Ace Data Cloud",
+    "message": "gpt-image-1",
     "description": "Όνομα ιστότοπου, δεν χρειάζεται μετάφραση, παραμένει 'Ace Data Cloud'"
   },
   "entity.copyright": {

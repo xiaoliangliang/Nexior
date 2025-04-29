@@ -148,7 +148,7 @@
     "description": "نص الزر، يُستخدم لإنهاء عملية معينة"
   },
   "entity.website": {
-    "message": "Ace Data Cloud",
+    "message": "gpt-image-1",
     "description": "اسم الموقع، لا تحتاج إلى ترجمة، يجب أن يبقى 'Ace Data Cloud'"
   },
   "entity.copyright": {

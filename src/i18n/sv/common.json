@@ -148,7 +148,7 @@
     "description": "Knapptext för att slutföra vissa åtgärder"
   },
   "entity.website": {
-    "message": "Ace Data Cloud",
+    "message": "gpt-image-1",
     "description": "Webbplatsens namn, behöver inte översättas, behåll 'Ace Data Cloud'"
   },
   "entity.copyright": {

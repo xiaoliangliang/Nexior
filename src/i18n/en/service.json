@@ -52,11 +52,11 @@
     "description": "Text displayed when calculating the number of applications."
   },
   "message.indexTitle": {
-    "message": "Wise Choice for Your Digital Services",
+    "message": "gpt-image-1: Your Hub for Creative AI Tools",
     "description": "The title of the homepage."
   },
   "message.indexSubtitle": {
-    "message": "Empowering your work and life with standard excellence in service.",
+    "message": "Generate stunning AI content - chat, images, music, video - effortlessly with gpt-image-1.",
     "description": "The subtitle of the homepage."
   },
   "message.fromPrice": {

@@ -148,7 +148,7 @@
     "description": "ボタンテキスト、何かを完了するために使用"
   },
   "entity.website": {
-    "message": "Ace Data Cloud",
+    "message": "gpt-image-1",
     "description": "ウェブサイト名、翻訳不要、'Ace Data Cloud'のままにする"
   },
   "entity.copyright": {

@@ -148,7 +148,7 @@
     "description": "Текст кнопки, використовується для завершення чогось"
   },
   "entity.website": {
-    "message": "Ace Data Cloud",
+    "message": "gpt-image-1",
     "description": "Назва сайту, не потрібно перекладати, залишити як 'Ace Data Cloud'"
   },
   "entity.copyright": {

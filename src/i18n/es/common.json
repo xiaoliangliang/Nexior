@@ -148,7 +148,7 @@
     "description": "Botón de texto para finalizar algo"
   },
   "entity.website": {
-    "message": "Ace Data Cloud",
+    "message": "gpt-image-1",
     "description": "Nombre del sitio web, no traducir, mantener como 'Ace Data Cloud'"
   },
   "entity.copyright": {
